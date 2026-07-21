@@ -52,11 +52,11 @@ You successfully solved the Wordle in 4 guesses.
 ```
 Wordle/
 ├── .gitignore
-├── wordle_answers.txt
-├── wordle_guesses.txt
+├── README.md
 ├── logic.py
 ├── wordle.py
-└── README.md
+├── wordle_answers.txt
+└── wordle_guesses.txt
 ```
 
 ## Getting Started
